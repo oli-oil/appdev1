@@ -1,0 +1,66 @@
+Emerging Technologies are the innovations, developments, and advancements that have the potential to perpetually change the way we live, work, and interact with different technologies available. Here are some of the prevalent emerging technologies: 
+
+1) **Robotics and Automation** 
+
+**Purpose:** The main goal of robotics and its automation is to improve the efficiency, precision, performance, and safety of human workers in various fields by automating repetitive and perilous tasks with little to no human intervention. [1]
+
+Usage: In education, robotics, and automation are being taught as one of the most in-demand courses, creating an opportunity to teach students about engineering, coding, and problem-solving. 
+In IT, Robotics and Automation tools are often used for software testing and maintenance to diminish human error and increase productivity. 
+
+Examples of Applied Robotics and Automation: In Manufacturing, automated robots are used for manufacturing. In healthcare, surgical robots are used to assist in surgeries [HCI]. 
+
+2) **Natural Language Processing (NLP)**
+
+Purpose: A branch of artificial intelligence that aims for computers to comprehend, generate, and manipulate human language in a way that is meaningful and useful. [2]
+
+Usage: In Education, NLP tools and algorithms are used for analyzation of students’ work to find areas of weakness and then deliver comments that improve and assist students in better understanding of a subject matter. [3]
+In IT, NLP is often used in chatbots, virtual assistants, etc. 
+
+Examples, where NLP can be found, are in Customer Service and chatbots that automatically handle customer complaints and inquiries. In Education, writing tools like Grammarly that optimized NLP assist in writing and grammar checking. 
+
+3) **Artificial Intelligence**
+
+Purpose: AI technology allows computers and machines to resemble human intelligence. It create systems that can perform tasks more efficiently and effectively making everyday lives easier. [4]
+
+Usage: In Education, AI, especially generative AI provides content, and personalized learning experiences and automates administrative tasks.
+In IT, AI can be used in data analysis, customer service through chatbots and cybersecurity. 
+
+Examples where AI can be utilized: In Navigation, AI has improved traveling as it is utilized in applications like Google Maps. In Finance, AI has trading algorithms and fraud detection systems. [5]
+
+4) **Internet of Things (IoT)**
+
+Purpose: IoT connects everyday objects or “things” to the Internet, allowing them to connect, send, and receive data, which enhances automation and data-driven decisions. [6]
+
+Usage: In Education, IoT devices are used in classrooms that operate smart devices to monitor and control the learning environment. In IT, IoT is used for network management and monitoring. 
+
+Example of IoT: Smart Homes, IoT is being applied to devices like smart security systems. In Healthcare, wearable devices connected to the Internet monitor patient health in real time. [7]
+
+5) **Serverless Computing** 
+
+Purpose: Serverless Computing allows software developers to build and run applications and servers without managing server infrastructure, which reduces operational costs. [8]
+
+Usage: In Education, Serverless Computing are used to teach cloud computing and application development. In IT, it is used for scalable web applications, APIs, and backend services. 
+
+Examples: In Web Development, Hosting dynamic websites and APIs. In Data Processing, Running data processing tasks in response to dynamic events. 
+
+References: 
+
+1. Introduction to robotics and automation. (n.d.). Introduction to Robotics and Automation. https://courses.minnalearn.com/en/courses/emerging-technologies/robotics-and-automation/introduction-to-robotics-and-automation/
+
+2. Chen, M. (2021, March 25). What is Natural Language Processing (NLP)? https://www.oracle.com/ph/artificial-intelligence/what-is-natural-language-processing/#:~:text=Natural%20language%20processing%20(NLP)%20is,natural%20language%20text%20or%20voice.
+
+3. Matellio. (2024, April 8). How NLP in Education Sector can Enhance Learning Experience? Matellio Inc. https://www.matellio.com/blog/nlp-in-education/#:~:text=NLP%20algorithms%20can%20analyze%20student,get%20better%20at%20their%20work.
+
+4. Team, I. (2024, April 9). What is artificial intelligence (AI)? Investopedia. https://www.investopedia.com/terms/a/artificial-intelligence-ai.asp
+
+5. Writer, G., & Writer, G. (2023, November 2). 8 helpful everyday examples of artificial intelligence. IoT For All. https://www.iotforall.com/8-helpful-everyday-examples-of-artificial-intelligence
+
+6. Magazine, I. N., & Magazine, I. N. (2023, October 31). What is IoT? A Beginner’s Guide. IoT Now News - How to Run an IoT Enabled Business. https://www.iot-now.com/2023/04/05/97056-what-is-iot/
+
+7. Ordr. (2024, July 25). 10 Ways Internet of Things(IoT) Impacts Healthcare Security - Ordr. https://ordr.net/article/iot-healthcare-examples
+
+8. Rosencrance, L. (2022, November 15). serverless computing. IT Operations. https://www.techtarget.com/searchitoperations/definition/serverless-computing
+
+
+
+
