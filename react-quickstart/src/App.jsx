@@ -1,26 +1,21 @@
+import AdminPanel from "./AdminPanel";
+import LoginForm from "./LoginForm";
 
-export default function Profile() {
-    const user = {
-      name: 'Hedy Lamarr',
-      imageUrl: 'https://i.imgur.com/yXOvdOSs.jpg',
-      imageSize: 90,
-    }
-    
-    return (
-      <>
-        <h1>{user.name}</h1>
-        <img
-          className="avatar"
-          src={user.imageUrl}
-          alt={'Photo of ' + user.name}
-          style={{
-            width: user.imageSize,
-            height: user.imageSize
-          }}
-        />
-      </>
-    
-    );
+export default function MyApp() {
+  let content;
+  let isLoggedIn = true;
+
+  if (isLoggedIn) {
+    content = <AdminPanel />;
+  } else {
+    content = <LoginForm />;
+  }
+  return (
+    <div>
+      {content}
+    </div>
+  );
+   
 }
 
 
