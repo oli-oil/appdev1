@@ -1,12 +1,13 @@
 
-function AboutPage() {
+function MyApp() {
   return (
     <>
-      <h1>About</h1>
-      <p>Hello there.<br />How do you do?</p>
+      <h1>An Image</h1>
+      <img className="avatar" />
     </>
   );
 }
 
-export default AboutPage
+export default MyApp
+
 

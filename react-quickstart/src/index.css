@@ -50,6 +50,11 @@ button {
   cursor: pointer;
   transition: border-color 0.25s;
 }
+
+.avatar {
+  border-radius: 50%;
+}
+
 button:hover {
   border-color: #646cff;
 }
