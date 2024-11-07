@@ -1,0 +1,23 @@
+Case Study 
+
+1. 
+As a Manager, the first thing I would do when this kind of problem occurs is to assess the situation carefully. I’ll communicate briefly with the key team member who had a personal issue that somehow hindered the project and identifies what kind of aid I could provide since I do not want the team member to feel bad about something completely out of their control. 
+The next thing to do is to initiate a conversation with the client, transparently informing them regarding the issues that arose and some potential alterations and adjustments to the project because of the team’s challenges during those times. At the same time, I assure them that the project’s deliverables will still be the same as the ones they requested. Communication with the client is still important despite how ‘trivial’ the problem the team encountered amidst the project’s production to prevent unrealistic expectations on both ends. 
+Next, is to interact with the project team, I’d encourage them to persevere and adapt to the changes, keeping them on doing the task assigned to them, directing them with some changes the project might have– like reprioritizing, adding, eradicating, and replacing features that complement the imminent deadline, in this way, we can estimate the realistic project presentation time with our current ability and capabilities. 
+Finally, once the project deliverables are ready to be conveyed, our team will reflect or conduct a retrospective on different circumstances and difficulties that hindered the project from becoming its best version, take note of every detail, problem, and opportunity encountered, identify lessons learned and this in return will help us better prepare for future projects and mitigate potential risks. 
+
+==========================
+
+2.
+As a Developer, having a family emergency amidst an important project is challenging; however, I will make my family matter on top priority, and simultaneously, I will remain committed and attempt to fulfill my role as a developer. These are the things I will do: 
+First, I will contact my manager regarding the problem encountered, omitting personal and sensitive information. I will ask for consideration concerning the project I might not prioritize for a while and I’ll pledge to get back to work once the situation stabilizes. 
+Second, I’ll take care of the issues at home while still getting the work fulfilled one at a time, since I believe that despite the situation I’ve faced I will still have at least a bit of the energy needed to get things done with the project while effectively utilizing my time left for its deliverables. 
+Next, I’ll communicate with the manager frequently about the project status on my end and keep him updated, I’ll proactively update my project input to adjust it based on the project deadline and as a last resort, I’ll ask for assistance if desperately needed (to ensure timely delivery). 
+While prioritizing family may temporarily impact the project’s deliverables and my professional activities, I am confident in my ability to balance both responsibilities and deliver the work needed. 
+
+==========================
+
+3. 
+From my perspective, large-scale projects like these necessitate pre-assessment strategies to proactively ensure and guarantee that there will be no discrepancies when the project is in process, ongoing, and implemented. Pre-assessment strategies for instance: background checking (verifying if the member is qualified for the project), direct personal interviews or inquiries with each project team member (to assess their suitability and capacity), and open communication with them (to inspect their ability to contribute to the project). 
+Aside from this strategy, the manager and developer could avoid such situations by developing an in-depth understanding of the situation by communicating frequently and comprehensively with one another, good communication always bridges the gap between the flummoxed and the unknown (it still depends on the situation of course, but most of the time, communication always works). 
+
